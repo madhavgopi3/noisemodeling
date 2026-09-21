@@ -1,6 +1,6 @@
 # Road Traffic Noise Mapping and Mitigation Study using CNOSSOS-EU
 
-**Madhav Gopi | Environmental acoustics portfolio | Cremona, Italy**
+**Madhav Gopi | Cremona, Italy**
 
 An independent portfolio study using **NoiseModelling 6.0.0, QGIS 3.44.14, and OpenStreetMap** to predict road-traffic noise and compare two interventions on Via Ferruccio Ghinaglia.
 
