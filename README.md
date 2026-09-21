@@ -74,7 +74,10 @@ Traffic flows originate from importer defaults. Numeric OSM speed tags are used 
 
 *C minus A. The same difference-map colour intervals are used for both interventions.*
 
-[View the absolute Scenario C map](figures/C_HGV50_Lden.png).
+![Scenario C.](figures/C_HGV50_Lden.png)
+
+*Scenario C: heavy-vehicle flow reduced by 50%.*
+
 
 ## Results at three representative receivers
 
