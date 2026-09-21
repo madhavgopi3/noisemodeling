@@ -66,6 +66,10 @@ Traffic flows originate from importer defaults. Numeric OSM speed tags are used 
 
 *Scenario B. Identical colour classes allow comparison with A, although a change smaller than a 5 dB class can be difficult to see.*
 
+![Scenario C.](figures/C_HGV50_Lden.png)
+
+*Scenario C: heavy-vehicle flow reduced by 50%.*
+
 ![Lden difference between the speed-reduction scenario and baseline, with darker blue indicating a larger reduction.](figures/Delta_Lden_B_minus_A.png)
 
 *B minus A. Differences are calculated from unrounded levels at matching receivers, then interpolated on the common mesh. Negative values indicate improvement; the calculation does not subtract contour-class numbers.*
@@ -73,10 +77,6 @@ Traffic flows originate from importer defaults. Numeric OSM speed tags are used 
 ![Lden difference between the heavy-vehicle reduction scenario and baseline.](figures/Delta_Lden_C_minus_A.png)
 
 *C minus A. The same difference-map colour intervals are used for both interventions.*
-
-![Scenario C.](figures/C_HGV50_Lden.png)
-
-*Scenario C: heavy-vehicle flow reduced by 50%.*
 
 
 ## Results at three representative receivers
