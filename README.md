@@ -2,13 +2,13 @@
 
 **Madhav Gopi | Environmental acoustics portfolio | Cremona, Italy**
 
-An independent portfolio study using **NoiseModelling 6.0.0, QGIS 3.44.14, OpenStreetMap and Python** to predict road-traffic noise and compare two interventions on Via Ferruccio Ghinaglia.
+An independent portfolio study using **NoiseModelling 6.0.0, QGIS 3.44.14, and OpenStreetMap** to predict road-traffic noise and compare two interventions on Via Ferruccio Ghinaglia.
 
 The project extends my MSc work in room acoustics, impulse-response measurements and spatial acoustic mapping into environmental noise prediction. It covers input preparation, source emissions, propagation, model checks, mitigation comparison and technical reporting.
 
 **Main finding:** at the selected roadside receiver, reducing assumed corridor speeds from 50 to 30 km/h reduced predicted Lden by **2.08 dB**. Halving corridor heavy-vehicle flows reduced it by **1.03 dB**. These are model predictions under assumed traffic conditions, not measured changes in Cremona.
 
-[Read the six-page report](report/Madhav_Gopi_Cremona_Noise_Study.pdf)
+[Read the six-page report](Madhav_Gopi_Cremona_Noise_Study.pdf)
 
 ![Baseline predicted Lden around Via Ferruccio Ghinaglia, with buildings and three selected receivers.](figures/A_Baseline_Lden.png)
 
@@ -120,7 +120,8 @@ Halving traffic gives −3.01 dB; increasing traffic by 25% gives +0.97 dB. This
 
 ## Skills demonstrated
 
-Environmental-noise prediction with CNOSSOS-EU; spatial data preparation and CRS management; traffic-emission modelling; receiver and output validation; controlled mitigation comparisons; Python-based results analysis; QGIS cartography; and engineering reporting.
+Environmental-noise prediction with CNOSSOS-EU; spatial data preparation and CRS management; traffic-emission modelling; receiver and output validation; controlled mitigation comparisons; 
+QGIS cartography; and engineering reporting.
 
 ## Author and attribution
 
