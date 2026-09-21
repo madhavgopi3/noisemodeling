@@ -8,7 +8,7 @@ The project extends my MSc work in room acoustics, impulse-response measurements
 
 **Main finding:** at the selected roadside receiver, reducing assumed corridor speeds from 50 to 30 km/h reduced predicted Lden by **2.08 dB**. Halving corridor heavy-vehicle flows reduced it by **1.03 dB**. These are model predictions under assumed traffic conditions, not measured changes in Cremona.
 
-[Read the six-page report](report/Madhav_Gopi_Cremona_Noise_Study.pdf) · [Editable Word version](report/Madhav_Gopi_Cremona_Noise_Study.docx)
+[Read the six-page report](report/Madhav_Gopi_Cremona_Noise_Study.pdf)
 
 ![Baseline predicted Lden around Via Ferruccio Ghinaglia, with buildings and three selected receivers.](figures/A_Baseline_Lden.png)
 
