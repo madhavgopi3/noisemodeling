@@ -24,9 +24,9 @@ The reporting area is approximately **600 × 600 m**. A larger surrounding geome
 
 | Scenario | Intervention on nine Ghinaglia road sections | Held fixed |
 |---|---|---|
-| A — Baseline | Assumed traffic with corridor speeds of 50 km/h | Reference case |
-| B — Speed reduction | Light- and heavy-vehicle speeds reduced to 30 km/h | Traffic flows, geometry and propagation settings |
-| C — Heavy-vehicle reduction | Heavy-vehicle flows reduced by 50% | Baseline speeds, light-vehicle flows, geometry and propagation settings |
+| A - Baseline | Assumed traffic with corridor speeds of 50 km/h | Reference case |
+| B - Speed reduction | Light- and heavy-vehicle speeds reduced to 30 km/h | Traffic flows, geometry and propagation settings |
+| C - Heavy-vehicle reduction | Heavy-vehicle flows reduced by 50% | Baseline speeds, light-vehicle flows, geometry and propagation settings |
 
 B and C are separate alternatives. Scenario C reduces total traffic as well as the heavy-vehicle share; it does not redistribute removed vehicles to other streets. Roads outside the intervention retain baseline inputs.
 
@@ -91,7 +91,7 @@ All receivers are at 4 m height. Distances below are horizontal distances to the
 
 Changes use unrounded results. Display precision does not imply equivalent prediction accuracy. R3 is farther from the intervention but louder than R2: distance to a single road does not explain the combined effects of a road network and buildings. This comparison does not isolate a building-screening insertion loss.
 
-| Statistic across 2,665 outdoor receivers | B — Speed reduction | C — Heavy-vehicle reduction |
+| Statistic across 2,665 outdoor receivers | B - Speed reduction | C - Heavy-vehicle reduction |
 |---|---:|---:|
 | Maximum predicted reduction | 2.10 dB | 1.05 dB |
 | Median predicted reduction | 0.03 dB | 0.02 dB |
@@ -128,7 +128,7 @@ QGIS cartography; and engineering reporting.
 
 ## Author and attribution
 
-**Madhav Gopi — MSc Music & Acoustic Engineering**
+**Madhav Gopi | Acoustic Engineer**
 
 Geometry © [OpenStreetMap contributors](https://www.openstreetmap.org/copyright), available under the Open Database Licence (ODbL). Retain attribution and applicable data licence terms when reusing OSM-derived material.
 
