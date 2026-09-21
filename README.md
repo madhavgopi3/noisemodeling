@@ -2,7 +2,7 @@
 
 **Madhav Gopi | Cremona, Italy**
 
-An independent portfolio study using **NoiseModelling 6.0.0, QGIS 3.44.14, and OpenStreetMap** to predict road-traffic noise and compare two interventions on Via Ferruccio Ghinaglia.
+An independent portfolio study using **NoiseModelling 6.0.0, QGIS 3.44.14, and OpenStreetMap** to predict road-traffic noise and compare two interventions on Via Ferruccio Ghinaglia in Cremona, Italy.
 
 The project extends my MSc work in room acoustics, impulse-response measurements and spatial acoustic mapping into environmental noise prediction. It covers input preparation, source emissions, propagation, model checks, mitigation comparison and technical reporting.
 
