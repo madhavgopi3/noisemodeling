@@ -7,7 +7,7 @@ The project extends my MSc work in room acoustics, impulse-response measurements
 
 **Main finding:** at the selected roadside receiver, reducing assumed corridor speeds from 50 to 30 km/h reduced predicted Lden by **2.08 dB**. Halving corridor heavy-vehicle flows reduced it by **1.03 dB**. These are model predictions under assumed traffic conditions, not measured changes in Cremona.
 
-[Read the six-page report](Madhav_Gopi_Cremona_Noise_Study.pdf)
+[Read the complete report](Madhav_Gopi_Cremona_Noise_Study.pdf)
 
 ![Baseline predicted Lden around Via Ferruccio Ghinaglia, with buildings and three selected receivers.](figures/A_Baseline_Lden.png)
 
@@ -120,10 +120,6 @@ Halving traffic gives −3.01 dB; increasing traffic by 25% gives +0.97 dB. This
 - Railway and other non-road sources are excluded. Congestion, detailed acceleration and traffic redistribution are not modelled.
 - This is a demonstrative portfolio study, not a certified regulatory noise assessment.
 
-## Skills demonstrated
-
-Environmental-noise prediction with CNOSSOS-EU; spatial data preparation and CRS management; traffic-emission modelling; receiver and output validation; controlled mitigation comparisons; 
-QGIS cartography; and engineering reporting.
 
 ## Author and attribution
 
@@ -133,4 +129,6 @@ Geometry © [OpenStreetMap contributors](https://www.openstreetmap.org/copyright
 
 Software: [NoiseModelling](https://noisemodelling.readthedocs.io/en/v6.0.0/) · [QGIS](https://qgis.org/).
 
-Study version 1.0 · September 2026.
+Tags: Environmental-noise prediction with CNOSSOS-EU; spatial data preparation and CRS management; traffic-emission modelling; receiver and output validation; controlled mitigation comparisons; QGIS cartography; engineering reporting.
+
+Study version 1.0 | September 2026.
