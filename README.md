@@ -96,7 +96,7 @@ Changes use unrounded results. R3 is farther from the intervention but louder th
 | Median predicted reduction | 0.03 dB | 0.02 dB |
 | Receivers with reduction ≥1 dB | 200 (7.5%) | 43 (1.6%) |
 
-Two points above low building roofs are excluded from outdoor statistics. These statistics weight grid points equally; they are not population- or area-weighted. The two maxima occur at different receivers. The 1 dB threshold is descriptive, not a compliance or audibility threshold.
+Two points above low building roofs are excluded from outdoor statistics. These statistics weight grid points equally and are not population- or area-weighted. The two maxima occur at different receivers.
 
 ## Traffic-flow sensitivity
 
