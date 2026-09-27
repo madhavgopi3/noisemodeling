@@ -121,9 +121,7 @@ Halving traffic gives −3.01 dB and increasing traffic by 25% gives +0.97 dB. T
 - This is only a demonstrative portfolio study, and cannot be considered as a certified noise-assessment.
 
 
-## Author and attribution
-
-**Madhav Gopi | Acoustic Engineer**
+## Attribution
 
 Geometry © [OpenStreetMap contributors](https://www.openstreetmap.org/copyright), available under the Open Database Licence (ODbL). Retain attribution and applicable data licence terms when reusing OSM-derived material.
 
