@@ -106,19 +106,19 @@ With every vehicle-category flow on every road and in every period multiplied by
 
 **Lden(f) = Lden(A) + 10 log10(f)**
 
-Halving traffic gives −3.01 dB; increasing traffic by 25% gives +0.97 dB. This is an analytical sensitivity calculation anchored to the actual baseline results, not additional propagation runs or a statistical confidence interval. It does not replace the separately modelled speed and heavy-vehicle scenarios.
+Halving traffic gives −3.01 dB and increasing traffic by 25% gives +0.97 dB. This is an analytical sensitivity calculation based on the actual baseline results. 
 
 ## Quality checks and limitations
 
-- Identical receiver positions and identifiers across A, B and C; no duplicate receiver locations.
+- Identical receiver positions and identifiers across A, B and C and no duplicate receiver locations.
 - 2,667 receivers in each of D, E, N and DEN: 10,668 records per scenario.
-- Checks of coordinate system, receiver heights, valid octave-band values and Lden consistency; invalid −99 sentinel values excluded from statistics.
+- Checks of coordinate system, receiver heights, valid octave-band values and Lden consistency. Invalid −99 dB values excluded from statistics.
 - Consistent map extents, absolute-level classes and difference-map classes across scenarios.
-- Traffic inputs are assumptions/defaults unless explicitly attributed to OSM tags; they are not measured Cremona traffic counts.
+- Traffic inputs are assumptions/defaults unless explicitly attributed to OSM tags.
 - No site validation measurement was performed. OSM geometry, heights and ground properties have limitations.
-- Flat terrain, simplified propagation settings and finite source coverage introduce limitations; no numerical convergence study was performed.
+- Flat terrain, simplified propagation settings and finite source coverage introduce limitations.
 - Railway and other non-road sources are excluded. Congestion, detailed acceleration and traffic redistribution are not modelled.
-- This is a demonstrative portfolio study, not a certified regulatory noise assessment.
+- This is only a demonstrative portfolio study, and cannot be considered as a certified noise-assessment.
 
 
 ## Author and attribution
