@@ -71,7 +71,7 @@ Traffic flows originate from importer defaults. Numeric OSM speed tags are used 
 
 ![Lden difference between the speed-reduction scenario and baseline, with darker blue indicating a larger reduction.](figures/Delta_Lden_B_minus_A.png)
 
-*B minus A. Differences are calculated from unrounded levels at matching receivers, then interpolated on the common mesh. Negative values indicate improvement; the calculation does not subtract contour-class numbers.*
+*B minus A. Differences are calculated from unrounded levels at matching receivers, then interpolated on the common mesh. Negative values indicate improvement in noise reduction.*
 
 ![Lden difference between the heavy-vehicle reduction scenario and baseline.](figures/Delta_Lden_C_minus_A.png)
 
