@@ -21,7 +21,7 @@ The reporting area is approximately **600 × 600 m**. A larger surrounding geome
 
 ## Scenarios
 
-| Scenario | Intervention on nine Ghinaglia road sections | Held fixed |
+| Scenario | Intervention on nine Ghinaglia road sections | Unchanged |
 |---|---|---|
 | A - Baseline | Assumed traffic with corridor speeds of 50 km/h | Reference case |
 | B - Speed reduction | Light- and heavy-vehicle speeds reduced to 30 km/h | Traffic flows, geometry and propagation settings |
